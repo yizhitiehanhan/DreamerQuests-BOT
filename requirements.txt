@@ -1,0 +1,4 @@
+curl_cffi
+loguru
+web3
+requests
