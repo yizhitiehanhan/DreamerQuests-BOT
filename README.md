@@ -38,12 +38,21 @@ config.txt
     
 
 Start the bot:   启动机器人：
+
     check_in 签到     python checkIn.py
+    
     do_task  任务     python doTask.py
+    
+
 
 ![alt text](1742045205598.png)    
 
+
 Buy Me a Coffee  给我买咖啡
+
 EVM: 0x7ac9f921adda567acbe881a176b4d340c236df90
+
 SOL: 6pHdwfvLPZ9oes8yKiR2VbA7t5JgLM1ZyGzjk5EdVwWq
+
 SUI: 0x9e5ba657cab8c0f5c98148592bb5c7582d4ec8c0cdf8fc416002174390c607d0
+
