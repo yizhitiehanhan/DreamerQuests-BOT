@@ -50,9 +50,9 @@ Start the bot:   启动机器人：
 
 Buy Me a Coffee  给我买咖啡
 
-EVM: 0x7ac9f921adda567acbe881a176b4d340c236df90
+EVM: 0x0a9a752ba7d667c6aaf00f898e5385907745e4f0
 
-SOL: 6pHdwfvLPZ9oes8yKiR2VbA7t5JgLM1ZyGzjk5EdVwWq
+SOL: HQ6iUFVMuS775m1jovatj3E7Ce522Esqyq9sNxozWmog
 
-SUI: 0x9e5ba657cab8c0f5c98148592bb5c7582d4ec8c0cdf8fc416002174390c607d0
+TON: UQB-4UQFzUrgqwsB5v04FxP47AiDP9Mf4umUvSN_YIGZqYjZ
 
